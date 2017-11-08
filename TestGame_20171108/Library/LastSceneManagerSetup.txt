@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Free Metal Barrel Model Pack/Scene/MetalBarrePack.unity
+  isLoaded: 1
+  isActive: 1
